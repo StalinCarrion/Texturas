@@ -356,6 +356,7 @@
     <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRTrackedRemote.cs" />
     <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRWaitCursor.cs" />
     <Compile Include="Assets\Scribs\ChangeTexture.cs" />
+    <Compile Include="Assets\Scribs\Getimgesfromweb.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Oculus\VR\Editor\AndroidManifest.OVRSubmission.xml" />
